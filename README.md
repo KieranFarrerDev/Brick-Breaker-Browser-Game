@@ -1,2 +1,2 @@
 # Brick-Breaker-Browser-Game
-In browser Brick Breaker game created using p5.js library.
+In browser Brick Breaker game created using the p5.js library.
